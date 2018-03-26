@@ -12,3 +12,5 @@ Git tracks changes.
 Git tracks changes of files.
 
 GIT checkout!
+
+git checkout again!
